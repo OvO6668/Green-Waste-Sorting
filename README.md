@@ -46,7 +46,7 @@ git clone https://github.com/OvO6668/Green-Waste-Sorting.git
 cd Green-Waste-Sorting
 Demo Video
  
-Bilibili Demo Video (Upload pending)
+Bilibili Demo Video (<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116885773357487&bvid=BV1xjM56TEwq&cid=39772293678&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>)
 License
 This project is licensed under the MIT License.
 Team
