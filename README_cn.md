@@ -46,9 +46,12 @@ git clone https://github.com/OvO6668/Green-Waste-Sorting.git
 cd Green-Waste-Sorting
 演示视频
  
-Bilibili 演示视频（待上传）
+Bilibili 演示视频（<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116885773357487&bvid=BV1xjM56TEwq&cid=39772293678&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>）
+
 开源协议
+
 本项目采用 MIT License 开源。
+
 团队信息
  
 项目名称：智能垃圾分拣机器
