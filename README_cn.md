@@ -44,3 +44,25 @@ bash
 克隆仓库
 git clone https://github.com/OvO6668/Green-Waste-Sorting.git
 cd Green-Waste-Sorting
+演示视频
+ 
+Bilibili 演示视频（待上传）
+开源协议
+本项目采用 MIT License 开源。
+团队信息
+ 
+项目名称：智能垃圾分拣机器
+ 
+项目指导：邹立老师
+ 
+项目负责人：黄嘉仪
+ 
+团队成员：何丽冰、程志斌
+ 
+所属高校：厦门华厦学院 信息与智能机电学院
+ 
+专业年级：2025级机器人工程
+ 
+参赛组别：本科生创意组
+致谢
+感谢地瓜机器人（D-Robotics）提供的 RDK X5 开发板及技术支持
